@@ -1,0 +1,1 @@
+Built after conversations with advancement professionals at Rochester, Cornell, and LMU, this dashboard helps identify who advancement teams should pay attention to across major gift candidates, emerging prospects, and re-engagement opportunities.
