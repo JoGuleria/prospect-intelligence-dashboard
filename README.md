@@ -25,6 +25,9 @@ This project creates a Prospect Intelligence Dashboard using a synthetic fundrai
 3. **Re-engagement Opportunities**
    Historically valuable donors who have not given recently and may be candidates for renewed outreach or stewardship.
 
+   <img width="956" height="496" alt="image" src="https://github.com/user-attachments/assets/d7f14dfa-a217-42e3-86e7-1aeb2bddf2ee" />
+
+
 ## Methodology
 
 The dashboard uses three core scoring dimensions:
