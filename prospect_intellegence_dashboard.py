@@ -11,7 +11,8 @@ st.set_page_config(
 # Load Data
 # ============================================================
 
-output_folder = Path.home() / "Documents" / "prospect_intelligence_outputs"
+BASE_DIR = Path(__file__).parent
+output_folder = BASE_DIR / "data"
 
 major = pd.read_csv(output_folder / "top_50_major_gift_candidates.csv")
 emerging = pd.read_csv(output_folder / "top_50_emerging_prospects.csv")
