@@ -73,3 +73,7 @@ This project uses a synthetic fundraising dataset and does not contain real dono
 ```bash
 streamlit run prospect_intellegence_dashboard.py
 ```
+
+## Citation 
+Danielle Brown, Loyola Marymount University, M.S. in Computer Science Senior Capstone Project, 2025
+Synthetic Donor Dataset with Multimodal Fusion Predictions
